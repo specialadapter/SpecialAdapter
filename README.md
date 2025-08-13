@@ -1,1 +1,1 @@
-# public
+# Special Adapter
