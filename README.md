@@ -2,8 +2,8 @@
 
 <figure>
     <img src="/assets/images/tallis-family.jpg"
-         alt="Tallis Family">
-    <figcaption>Tallis Family</figcaption>
+         alt="Talis Family">
+    <figcaption>Talis Family</figcaption>
 </figure>
 
 <figure>
