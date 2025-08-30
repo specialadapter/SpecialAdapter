@@ -1,4 +1,4 @@
-# Thank You
+# Thank you
 
 <figure>
     <img src="/assets/images/tallis-family.jpg"
