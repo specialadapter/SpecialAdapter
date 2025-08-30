@@ -1,19 +1,17 @@
 # Thank you
 
+## Encouragement
+
 <figure>
     <img src="/assets/images/tallis-family.jpg"
          alt="Tallis Family">
-    <figcaption>Encouraged by Tallis family</figcaption>
+    <figcaption>Tallis family</figcaption>
 </figure>
+
+## Inspiration
 
 <figure>
     <img src="/assets/images/computer-shopper.jpg"
          alt="Computer Shopper magazine">
-    <figcaption>Inspired by Computer Shopper magazine</figcaption>
-</figure>
-
-<figure>
-    <img src="/assets/images/computer-shopper.jpg"
-         alt="Gateway 486 computerer">
-    <figcaption>Enabled by Gateway 486 computerer</figcaption>
+    <figcaption>Computer Shopper magazine</figcaption>
 </figure>
